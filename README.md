@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyQIT&hide=html&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyQIT&hide=html&layout=compact&theme=tokyonight)  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PyQIT&layout=compact&theme=tokyonight&include_all_commits=true&show_icons=true)
 
